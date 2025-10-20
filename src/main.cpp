@@ -33,4 +33,4 @@ int main() {
     cout << "Result: " << result << endl;
     return 0;
 }
-// Testna sprememba na feature veji
+// konflikt pri zdruzevanju - feature
