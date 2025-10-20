@@ -33,4 +33,4 @@ int main() {
     cout << "Result: " << result << endl;
     return 0;
 }
-// konflikt pri zdruzevanju - master
+// konflikt razresen
